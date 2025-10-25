@@ -1,0 +1,14 @@
+C:\agano\Oshwal\docs\Y2S2\COMP1551_App Dev\coursework\EducationCentreDesktopMIS_001461592\bin\Debug\net8.0\EducationCentreDesktopMIS_001461592.exe
+C:\agano\Oshwal\docs\Y2S2\COMP1551_App Dev\coursework\EducationCentreDesktopMIS_001461592\bin\Debug\net8.0\EducationCentreDesktopMIS_001461592.deps.json
+C:\agano\Oshwal\docs\Y2S2\COMP1551_App Dev\coursework\EducationCentreDesktopMIS_001461592\bin\Debug\net8.0\EducationCentreDesktopMIS_001461592.runtimeconfig.json
+C:\agano\Oshwal\docs\Y2S2\COMP1551_App Dev\coursework\EducationCentreDesktopMIS_001461592\bin\Debug\net8.0\EducationCentreDesktopMIS_001461592.dll
+C:\agano\Oshwal\docs\Y2S2\COMP1551_App Dev\coursework\EducationCentreDesktopMIS_001461592\bin\Debug\net8.0\EducationCentreDesktopMIS_001461592.pdb
+C:\agano\Oshwal\docs\Y2S2\COMP1551_App Dev\coursework\EducationCentreDesktopMIS_001461592\obj\Debug\net8.0\EducationCentreDesktopMIS_001461592.GeneratedMSBuildEditorConfig.editorconfig
+C:\agano\Oshwal\docs\Y2S2\COMP1551_App Dev\coursework\EducationCentreDesktopMIS_001461592\obj\Debug\net8.0\EducationCentreDesktopMIS_001461592.AssemblyInfoInputs.cache
+C:\agano\Oshwal\docs\Y2S2\COMP1551_App Dev\coursework\EducationCentreDesktopMIS_001461592\obj\Debug\net8.0\EducationCentreDesktopMIS_001461592.AssemblyInfo.cs
+C:\agano\Oshwal\docs\Y2S2\COMP1551_App Dev\coursework\EducationCentreDesktopMIS_001461592\obj\Debug\net8.0\EducationCentreDesktopMIS_001461592.csproj.CoreCompileInputs.cache
+C:\agano\Oshwal\docs\Y2S2\COMP1551_App Dev\coursework\EducationCentreDesktopMIS_001461592\obj\Debug\net8.0\EducationCentreDesktopMIS_001461592.dll
+C:\agano\Oshwal\docs\Y2S2\COMP1551_App Dev\coursework\EducationCentreDesktopMIS_001461592\obj\Debug\net8.0\refint\EducationCentreDesktopMIS_001461592.dll
+C:\agano\Oshwal\docs\Y2S2\COMP1551_App Dev\coursework\EducationCentreDesktopMIS_001461592\obj\Debug\net8.0\EducationCentreDesktopMIS_001461592.pdb
+C:\agano\Oshwal\docs\Y2S2\COMP1551_App Dev\coursework\EducationCentreDesktopMIS_001461592\obj\Debug\net8.0\EducationCentreDesktopMIS_001461592.genruntimeconfig.cache
+C:\agano\Oshwal\docs\Y2S2\COMP1551_App Dev\coursework\EducationCentreDesktopMIS_001461592\obj\Debug\net8.0\ref\EducationCentreDesktopMIS_001461592.dll
